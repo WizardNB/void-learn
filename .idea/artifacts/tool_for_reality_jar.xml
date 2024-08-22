@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tool-for-reality:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tool_for_reality_jar</output-path>
+    <root id="archive" name="tool-for-reality.jar">
+      <element id="module-output" name="tool-for-reality" />
+    </root>
+  </artifact>
+</component>
